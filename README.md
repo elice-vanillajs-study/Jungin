@@ -1,2 +1,3 @@
-# Jungin
-Jungin
+# Javascript Study
+
+https://ko.javascript.info/
